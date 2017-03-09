@@ -1,0 +1,9 @@
+
+.container-left, .container-right{
+	width:50%;
+	display:inline-block;
+}
+
+.text-alignment {
+	text-align:left;
+}

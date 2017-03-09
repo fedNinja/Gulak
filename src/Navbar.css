@@ -1,0 +1,38 @@
+.leftDiv, .rightDiv{
+	width: 50%;
+	display:inline-block;
+}
+
+.titleSpecs{
+	vertical-align:middle;
+	font-size:40px;
+	padding-left:20px;
+}
+
+.leftDiv{
+	vertical-align:middle;
+	text-align:left;
+}
+
+.wideDiv{
+	text-align:right;
+	margin-right:20px;
+}
+
+.wideDiv li{
+	font-size:20px;
+	list-style-type:none;
+	display:inline;
+	padding-left:40px;
+}
+
+.wideDiv li a{
+	text-decoration:none;
+	color:#fff;
+}
+
+.logoSpec{
+	width:70px;
+	vertical-align:middle;
+	margin-left:20px;
+}
